@@ -127,7 +127,7 @@ html body #main__container #header__controls #header__submit {
 }
 
 html body #main__container #header__controls #header__submit span {
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   padding: 5px 8px;
 }
 
@@ -196,7 +196,7 @@ html body #main__container #dotMenu #solver span:hover, html body #main__contain
 
 html body #main__container #dotMenu #solver span:hover:after, html body #main__container #dotMenu #solver span:focus:after {
   content: "Solver ▶";
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 html body #main__container #dotMenu #solver #solverMenu {
@@ -236,7 +236,7 @@ html body #main__container #dotMenu #solver #solverMenu div input[type=checkbox]
 
 html body #main__container #dotMenu #solver #solverMenu div input[type=checkbox] + label:before {
   content: "\2714";
-  border: 0.1em solid #000;
+  border: 0.1em solid rgb(255, 255, 255);
   border-radius: 0.2rem;
   display: inline-block;
   width: 0.7rem;
